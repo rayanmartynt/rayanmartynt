@@ -43,5 +43,6 @@ I like making hardware and software work together.
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/Java-Beginner-276DC3?style=flat&logo=r&logoColor=red" alt="Java Skill Badge">
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=red" alt="Java Skill Badge" >
 </p>
