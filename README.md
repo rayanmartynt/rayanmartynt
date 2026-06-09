@@ -20,7 +20,7 @@ I'm a software engineering student who loves building things with Arduino.
 
 I like making hardware and software work together.
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://rayanmartynt.github.io/](https://my-portfolio-nine-ebon-10.vercel.app/)]
+### [🏆 Check Out My Full Portfolio Website](https://my-portfolio-nine-ebon-10.vercel.app/))
       
 ## 🔭 What I'm Currently Working On 
 
