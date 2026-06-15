@@ -13,8 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a software engineering student who loves building things with Arduino.
-
+I'm Rayan Turay, a Software Engineering based in Sierra Leone. I enjoy building clean, efficient solutions and learning new technologies.
 - 🏃‍♂️ Running
 - ⚽ Football (soccer)
 - 🧠 Mentoring others
@@ -27,7 +26,7 @@ I like making hardware and software work together.
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:**  Creating a Grade Hub – A Python GUI for Sierra Leone schools where lecturers upload weighted grades and students view results (SDG 4).
-- **Project B:**  Creating a Automated Student Attendance System - A C++ and Arduino based project where students can use RFID card to register attendance (SDG 4).
+- **Project B:**  Creating a Automated Student Attendance System - A C++, Python, and Excel based project where students can use RFID card to register attendance (SDG 4).
 
 ## 🌱 Currently Learning 
 
