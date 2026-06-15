@@ -25,7 +25,7 @@ I like making hardware and software work together.
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:**  Creating a Grade Hub – A Python GUI for Sierra Leone schools where lecturers upload weighted grades and students view results (SDG 4).
-- **Project B:**  Creating a Student Attendance System Automation - A C++ and Arduino based project where students can use RFID card to register attendance (SDG 4).
+- **Project B:**  Creating a Automated Student Attendance System - A C++ and Arduino based project where students can use RFID card to register attendance (SDG 4).
 
 ## 🌱 Currently Learning 
 
