@@ -1,7 +1,9 @@
 ## Hi there, I'm Rayan Turay 👋
 
-<div text-align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Robtics;Python+programming" alt="Typing SVG" /></a>
+<div align="center" justify-content="center" align-items="center">
+  <a href="https://git.io/typing-svg" >
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Robtics;Python+programming" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
