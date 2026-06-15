@@ -1,6 +1,6 @@
 ## Hi there, I'm Rayan Turay 👋
 
-<div align="center">
+<div display="flex" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Robtics;Python+programming" alt="Typing SVG" /></a>
 </div>
 
