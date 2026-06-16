@@ -1,4 +1,4 @@
-## Hi there, I'm Rayan Turay 👋
+## Hi there, I'm Rayan Martin Turay 👋
 
 <div align="center" justify-content="center" align-items="center">
   <a href="https://git.io/typing-svg" >
