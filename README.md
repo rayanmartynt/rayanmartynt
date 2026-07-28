@@ -12,7 +12,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm Rayan Turay, a Software Engineering based in Sierra Leone. I enjoy building clean, efficient solutions and learning new technologies.
+I'm Rayan Turay, a Software Engineering student based in Sierra Leone. I enjoy building clean, efficient solutions and learning new technologies.
 - 🏃‍♂️ Running
 - ⚽ Football (soccer)
 - 🧠 Mentoring others
